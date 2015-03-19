@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ASV Demo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="evt_title">Event Title</string>
+    <string name="buy_tkt">Add To Cart</string>
+    <string name="signin">Sign In</string>
+    <string name="signup">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="rpassword">Repeat Password</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="email">user@easyticket.com</string>
+    <string name="phone">xxx-x-xxxxxx</string>
+    <string name="phy_add">Physical address</string>
+    <string name="caa">Create an account</string>
+     <string name="tnc">Accept our Terms and Conditions</string>
+
+</resources>

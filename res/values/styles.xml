@@ -1,0 +1,37 @@
+<resources>
+
+    <style name="Theme.ASVDemo" parent="@style/Theme.Sherlock">
+        <item name="actionBarStyle">@style/ASVDemo.ActionBarStyle</item>
+        <item name="android:actionBarStyle">@style/ASVDemo.ActionBarStyle</item>
+        <item name="android:textColor">@color/et_black</item>        
+   </style>
+   
+   <style name="StyledIndicators" parent="@style/Theme.Sherlock">
+        <item name="vpiTitlePageIndicatorStyle">@style/CustomTitlePageIndicator</item>
+    </style>
+      
+   <style name="CustomTitlePageIndicator">
+        <item name="android:background">@color/et_white</item>
+        <item name="footerColor">@color/et_red</item>
+        <item name="footerLineHeight">1dp</item>
+        <item name="footerIndicatorHeight">3dp</item>
+        <item name="footerIndicatorStyle">underline</item>
+        <item name="android:textColor">@color/et_grey3</item>
+        <item name="selectedColor">@color/et_grey1</item>
+        <item name="selectedBold">true</item>
+    </style>
+        
+    <style name="ASVDemo.ActionBarStyle" parent="Widget.Sherlock.ActionBar">
+	    <item name="background">@drawable/action_bar</item>
+	    <item name="android:background">@drawable/action_bar</item>
+	    <item name="android:titleTextStyle">@style/ASVDemo.ActionBar.TitleTextStyle</item>
+    </style>
+    
+   <style name="ASVDemo.ActionBar.TitleTextStyle" parent="TextAppearance.Sherlock.Widget.ActionBar.Title">
+         <item name="android:textSize">20dp</item>
+         <item name="android:textColor">@color/et_red</item>
+         <item name="android:shadowColor">@color/et_red</item>
+         <item name="android:shadowDy">3</item>
+   </style>
+
+</resources>

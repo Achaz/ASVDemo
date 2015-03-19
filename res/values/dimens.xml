@@ -1,0 +1,62 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="slidingmenu_offset">60dp</dimen>
+    <dimen name="list_padding">10dp</dimen>
+    <dimen name="shadow_width">15dp</dimen>
+    <dimen name="widget_margin">8dp</dimen>
+    
+    <dimen name="text_size_ui_title">60sp</dimen>
+    <dimen name="text_size_ui_title1">30sp</dimen>
+    <dimen name="text_size_ui_title2">20sp</dimen>
+    <dimen name="text_size_ui_title3">15sp</dimen>
+    <dimen name="text_size_ui_details">10sp</dimen>
+    <dimen name="margin_top_title">100dp</dimen>
+    <dimen name="margin_top_apkname">40dp</dimen>
+    <dimen name="margin_top_login_btn">40dp</dimen>
+    
+    <dimen name="margin_top_btwn">5dp</dimen>
+    <dimen name="margin_top_btwn1">10dp</dimen>
+    <dimen name="margin_top_btwn2">20dp</dimen>
+    <dimen name="margin_top_btwn3">30dp</dimen>
+    <dimen name="margin_top_btwn4">40dp</dimen>
+    <dimen name="margin_top_btwn5">50dp</dimen>
+    <dimen name="margin_top_btwn6">60dp</dimen>
+    
+    <dimen name="width_o_qn_ans">100dp</dimen>
+    
+    <dimen name="other_left">5dp</dimen>
+    <dimen name="other_top">7dp</dimen>
+   
+    <dimen name="margin_bottom_btwn1">10dp</dimen>
+    <dimen name="margin_bottom_btwn5">50dp</dimen>
+    
+    <dimen name="margin_top_menu_btn">50dp</dimen>
+    <dimen name="margin_top_actbtn">60dp</dimen>
+    
+    <dimen name="margin_btwn">5dp</dimen>
+    <dimen name="margin_btwn1">10dp</dimen>
+    <dimen name="margin_btwn2">20dp</dimen>
+    <dimen name="margin_btwn3">30dp</dimen>
+    
+    <dimen name="margin_left_qnr_ctrls">60dp</dimen>
+    <dimen name="margin_left_arrowleft">7dp</dimen>
+    
+    <dimen name="margin_bottom_welcomeqnr">60dp</dimen>
+    
+    <dimen name="arrow_dimens1">40dp</dimen>
+    <dimen name="arrow_dimens2">30dp</dimen>
+    <dimen name="arrow_dimens3">20dp</dimen>
+    
+    <dimen name="camera_ic_dimens">60dp</dimen>
+    
+    <dimen name="list_img_dimens">100dp</dimen>
+    <dimen name="list_img_dimens2">150dp</dimen>
+    
+    <dimen name="btn_padding">20dp</dimen>
+
+    
+    <integer name="num_cols">1</integer>
+</resources>
